@@ -1,4 +1,4 @@
-The code for this project was built following the Udemy course React Front To Back 2019: https://www.udemy.com/course/modern-react-front-to-back/. All credits to Brad Traversy https://www.udemy.com/course/modern-react-front-to-back/#instructor-1.
+The code for this project was built following the Udemy course React Front To Back 2019 by Brad Traversy: https://www.udemy.com/course/modern-react-front-to-back/.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
