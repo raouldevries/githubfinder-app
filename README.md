@@ -1,3 +1,5 @@
+The code for this project was built following the Udemy course React Front To Back 2019: https://www.udemy.com/course/modern-react-front-to-back/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
